@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, Eu sou Leandro Naves Guerra</h1>
 <h3 align="center">Apaixonado por programação, tecnologia e suas inovações</h3>
 
-- 🌱 Atualmente tenho conhecimento e estou aprendendo **JavaScript, CSS, HTML e cursando Análise e Desenvolvimento de Sistemas**
+- 🌱 Atualmente tenho conhecimento e estou aprendendo **Python, Cybersecurity, Pentest e cursando Análise e Desenvolvimento de Sistemas**
 
 - 💬 Me pergunte sobre **Desenvolvimento web**
 
