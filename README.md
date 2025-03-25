@@ -24,5 +24,5 @@
 
 
 <a href="https://github.com/LeandroNves/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LeandroNves&repo=github-readme-stats&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LeandroNves&repo=github-readme-stats&theme=dark" />
 </a>
