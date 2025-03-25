@@ -6,9 +6,9 @@
 
 
 - 👾 Explorando novas tecnologias e desenvolvendo soluções de software e automações para pentest.
-- 🎓 Estudando Analise e Desenvolvimento de Sistemas e cybersecutiry.
+- 🎓 Estudando Analise e Desenvolvimento de Sistemas e cybersecurity.
 - 💻 Buscando oportunidades no mercado da tecnologia.
-- 💡 Aprendendo mais sobre densenvolvimento de aplicações, hacking ético, cybersecutiry e pentest.
+- 💡 Aprendendo mais sobre densenvolvimento de aplicações, hacking ético, cybersecurity e pentest.
 
 ## Minhas Skills
 
