@@ -14,7 +14,7 @@
 
 **Aplicações e dados**
 
-![javascript](https://img.shields.io/badge/linkedin-leandronavesguerra-1e1e1e?style=for-the-badge&logo=linkedin&logoColor=76ff76&labelColor=0d0d0d)](https://br.linkedin.com/in/leandro-naves-guerra-7928a721b)
+![JavaScript](https://img.shields.io/badge/-JavaScript-1e1e1e?style=flat&logo=javascript&logoColor=76ff76)
 ![python](https://img.shields.io/badge/-Python-1e1e1e?style=flat&logo=python&logoColor=76ff76)
 ![cybersecurity](https://img.shields.io/badge/-Cybersecurity-1e1e1e?style=flat&logo=hackthebox&logoColor=76ff76)
 ![kalilinux](https://img.shields.io/badge/-Kali%20Linux-1e1e1e?style=flat&logo=kalilinux&logoColor=76ff76)
@@ -26,7 +26,7 @@
 
 
 ## Onde me encontrar
-[![LinkedIn](https://img.shields.io/badge/-leandronavesguerra-1e1e1e?style=for-the-badge&logo=linkedin&logoColor=76ff76&labelColor=0d0d0d)](https://br.linkedin.com/in/leandro-naves-guerra-7928a721b)
+[![LinkedIn](https://img.shields.io/badge/linkedin-leandronavesguerra-1e1e1e?style=for-the-badge&logo=linkedin&logoColor=76ff76&labelColor=0d0d0d)](https://br.linkedin.com/in/leandro-naves-guerra-7928a721b)
 [![Gmail Badge](https://img.shields.io/static/v1?label=Gmail&message=leandro.naves123@gmail.com&color=1e1e1e&style=for-the-badge&logo=Gmail&logoColor=76ff76&labelColor=0d0d0d)](mailto:leandro.naves123@gmail.com)
 [![GitHub](https://img.shields.io/static/v1?label=GitHub&message=LeandroNves&color=1e1e1e&style=for-the-badge&logo=GitHub&logoColor=76ff76&labelColor=0d0d0d)](https://github.com/LeandroNves)
 
