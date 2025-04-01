@@ -20,7 +20,7 @@
 ![kalilinux](https://img.shields.io/badge/-Kali%20Linux-1e1e1e?style=flat&logo=kalilinux&logoColor=76ff76)
 ![bash](https://img.shields.io/badge/-Bash-1e1e1e?style=flat&logo=gnubash&logoColor=76ff76)
 ![metasploit](https://img.shields.io/badge/-Metasploit-1e1e1e?style=flat&logo=metasploit&logoColor=76ff76)
-![nmap](https://img.shields.io/badge/-Nmap-1e1e1e?style=flat&logo=nmap&logoColor=76ff76)
+![nmap](https://img.shields.io/badge/Nmap-blue?logo=nmap)
 
 
 
